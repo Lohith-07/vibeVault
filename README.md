@@ -117,5 +117,3 @@ Feel free to open issues or submit pull requests.
 
 ---
 
-✅ Create a professional GitHub repo structure
-Just tell me!
